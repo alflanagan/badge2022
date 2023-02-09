@@ -70,3 +70,17 @@ docs/html/*
 
 # Simulator flash storage
 simulator_flash_storage.bin
+
+CMakeCache*
+elf2uf2/
+generated/
+pico-sdk/
+pico_extras/
+pioasm/
+_deps/
+CMakeFiles/
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+source/badge2022_c.*
+source/hal/ir_library/**/*.h
